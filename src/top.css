@@ -1,0 +1,11 @@
+.top-btn{
+    position: fixed;
+    padding: 1rem 2rem;
+    font-size: 20px;
+    bottom: 40px;
+    right: 40px;
+    cursor: pointer;
+    background-color: #ff3d24;
+    color: #fff;
+    border: 0;
+}

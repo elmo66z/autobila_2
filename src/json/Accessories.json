@@ -1,0 +1,31 @@
+[
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_b5449b8d8ff54d5f9f09963337ef1067~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_b5449b8d8ff54d5f9f09963337ef1067~mv2.jpg",
+        "title": "Lamps",
+        "price": 8.00
+    },
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_d4fcf2e334784b24b28ecff8a9e74be7~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_d4fcf2e334784b24b28ecff8a9e74be7~mv2.jpg",
+        "title": "Door Handle",
+        "price": 90.50
+    },
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_7ceb4b4804c7416cbfd2bf352d0c8eff~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_7ceb4b4804c7416cbfd2bf352d0c8eff~mv2.jpg",
+        "title": "GPS",
+        "price": 45.00
+    },
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_feec59fa74784f7d99887a58f9ff9ed8~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_feec59fa74784f7d99887a58f9ff9ed8~mv2.jpg",
+        "title": "Car Mats",
+        "price": 130.00
+    },
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_2e35f13454cb4e4498827228bc70a559~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_2e35f13454cb4e4498827228bc70a559~mv2.jpg",
+        "title": "Steering Wheel Cover",
+        "price": 40.00
+    },    {
+        "image": "https://static.wixstatic.com/media/c837a6_eebf0094c624498e9a94fede99eeb9ff~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_eebf0094c624498e9a94fede99eeb9ff~mv2.jpg",
+        "title": "Seat Cover",
+        "price": 76.50
+    }
+]

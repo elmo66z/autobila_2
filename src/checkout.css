@@ -1,0 +1,273 @@
+.checkall{
+  background: linear-gradient(135deg, #55140C 0%, #000000 39.90478515625%);
+  height: auto;
+  width: 100%;
+  padding: 150px;
+  display: flex;
+  flex-direction: column;
+}
+.l21cart{
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  position: absolute;
+  top: 174px;
+}
+.checkout-container{
+  margin-top: 100px;
+  width: 1100px;
+  height: auto ;
+}
+.p1{
+  position: absolute;
+  right: 700px;
+  top: 180px;
+  font-size: 20px;
+}
+.p2{
+  position: absolute;
+  right: 380px;
+  top: 180px;
+  font-size: 20px;
+}
+.p3{
+  position: absolute;
+  right: 230px;
+  top: 180px;
+  font-size: 20px;
+}
+.order-summary{
+
+}
+.checkall span {
+  width: 75.7%;
+  top: 240px;
+  height: 2px;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+}
+
+/* .checkall span:nth-child(2) {
+  width:  2px ;
+  top: 140px;
+  height:40.7%;
+  right: 300px;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+} */
+.order-item{
+  width: 700px;
+  margin-left: -40px;
+  padding: 40px;
+}
+.order-item img{
+  width: 100px;
+}
+.tt{
+  float: right;
+  margin: 30px;
+}
+.checkout-actions{
+  position: absolute;
+}
+.namme{
+  position: absolute;
+  left: 300px;
+  font-size: 24px;
+}
+.price1{
+  position: absolute;
+  color: #ca1f08;
+  right: 378px;
+  font-size: 24px;
+}
+.qaun{
+  position: absolute;
+  right: 724px;
+  font-size: 24px;
+  
+}
+
+
+.bo{
+  position: absolute;
+  right: 170px;
+  top: 270px;
+}
+.bo p{
+  font-size: 24px;
+}
+.paiment{
+  width: 600px;
+  height: auto;
+}
+.paiment h1{
+  color: aliceblue;
+  font-size: 45px;
+  margin-top: 100px;
+}
+.paiment span {
+  width: 40%;
+  height: 2px;
+}
+.cards img{
+  width: 60px;
+}
+.cardd p{
+  font-size: 20px;
+  margin: 10px;
+  text-decoration: underline;
+  color: #ca1f08;
+}
+
+
+
+/*  */
+.cardd {
+  max-width: 400px;
+  margin: 50px 0px;
+  padding: 20px;
+  font-size: 24px;
+  height: auto;
+  border: 1px solid #ca1f088a;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+#im{
+  position: absolute;
+  left: 240px;
+}
+
+.cards img {
+  max-width: 100px;
+}
+
+
+.form-field {
+  margin-bottom: 20px;
+}
+
+.form-field label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-field input{
+  width: 95.2%;
+  background-color: #55140C;
+  padding: 10px;
+  color: #fefefe;
+  border: none;
+  font-size: 16px;
+  outline: none;
+}
+.form-field select {
+  width: 100%;
+  background-color: #55140C;
+  padding: 10px;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+.form-field input::placeholder {
+  font-weight: bold;
+  opacity: 0.5;
+  color: #ffffff;
+}
+
+.form-field select {
+  cursor: pointer;
+}
+
+button {
+  background-color: #ff3d24;
+  color: white;
+  transition: 0.3s;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #fefefe;
+  color: #ff3d24;
+  transition: 0.3s;
+}
+
+.righttt div p {
+  width: 500px;
+  right: 200px;
+  top: auto ;
+  position: absolute;
+  color: #fefefe;
+  text-decoration: unset;
+}
+.righttt{
+  height: auto;
+  right: 200px;
+  background-color: #f2f2f2;
+  top: 500px;
+}
+.span1{
+  width: 75.7%;
+  top: 340px;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+}
+.form-check{
+
+}
+
+.form-check-input {
+  width: 18px;
+  height: 18px;
+  top: 230px;
+  left: 3px;
+  margin-right: 8px;
+  border: 2px solid #55140C;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.form-check-input:checked {
+  background-color: #55140C; /* Background color when the checkbox is checked */
+  border-color: #ffffff; /* Border color when the checkbox is checked */
+}
+.form-check-w {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  color: #eaeaea;
+}
+
+.actions{
+  position: absolute;
+  padding: 30px 0px;
+}
+.actions button{
+  padding: 10px 30px;
+  font-size: 23px;
+  transition: 0.3s;
+  margin: 10px;
+}
+.actions .g{
+  padding: 10px 30px;
+  font-size: 23px;
+  margin: 10px;
+  background-color: #fefefe;
+  color: #ff3d24;
+  transition: 0.3s;
+}
+.actions .g:hover{
+  background-color: #ff3d24;
+  color: #fefefe;
+  transition: 0.3s;
+}

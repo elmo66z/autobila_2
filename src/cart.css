@@ -1,0 +1,104 @@
+.h1cart{
+  color: aliceblue;
+  font-size: 50px;
+  position: absolute;
+  top: 80px;
+}
+.Cartall{
+  background: linear-gradient(135deg, #55140C 0%, #000000 39.90478515625%);
+  height: auto;
+  width: 100%;
+  padding: 150px;
+  display: flex;
+  flex-direction: column;
+}
+.card{
+  margin: 10px;
+  width: 700px;
+  height: 260px;
+  border: 1px solid #dddddd38;
+}
+.imgs{
+  width: 195px;
+}
+.elements{
+  width: 400px;
+  height: 213px;
+  padding: 35px;
+  float: right;
+}
+.ele1{
+  position: absolute;
+  padding: 30px;
+  font-size: 20px;
+  left: 400px;
+  width: 360px;
+  margin: -13px;
+}
+.ele1 h2{
+  color: #ff3d24;
+}
+.ele1 p{
+  font-size: 17px;
+}
+.Q{
+ 
+}
+.Q button{
+  background-color: #ff3d24;
+	padding: 10px 20px ;
+	margin: 6px;
+	transition: 0.3s;
+  cursor: pointer;
+  border: 0;
+  color: white;
+	width : 80px;
+  height: 40px;
+}
+.Q button:hover{
+    background-color: #fefefe;
+    color: #ff3d24;
+    transition: 0.3s;
+}
+.delete{
+  position: absolute;
+  top: -14px;
+  left: 363px;
+}
+.righ{
+  background-color: #dddddd38;
+  width: 300px;
+  height: 300px;
+  top: 160px;
+  right: 180px;
+  position: absolute;
+  padding: 20px 40px;
+}
+.righ h1{
+  font-size: 50px;
+}
+.righ h2 a{
+  margin-left: 140px;
+}
+.righ h2{
+  padding: 5px;
+}
+.Pay{
+  background-color: #ff3d24;
+	padding: 10px 115px ;
+	margin: 6px;
+	transition: 0.3s;
+  cursor: pointer;
+  border: 0;
+  font-size: 20px;
+  color: white;
+}
+.Pay:hover{   background-color: #fefefe;
+  color: #ff3d24;
+  transition: 0.3s;
+}
+.righ span{
+  color: #dd432ee8;
+  font-size: 16px;
+  text-decoration: underline;
+}

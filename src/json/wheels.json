@@ -1,0 +1,31 @@
+[
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_024beae3c83d4cfd888b84fac9a5094e~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_024beae3c83d4cfd888b84fac9a5094e~mv2.jpg",
+        "title": "Chrome",
+        "price": 15.00
+    },
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_44e0db2f42bd48ff8ea5b3ade29882c1~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_44e0db2f42bd48ff8ea5b3ade29882c1~mv2.jpg",
+        "title": "Alloy",
+        "price": 7.50
+    },
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_907b8956eaf94b07a51f0f108bab9108~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_907b8956eaf94b07a51f0f108bab9108~mv2.jpg",
+        "title": "4x4",
+        "price": 20.00
+    },
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_6a4c11a1aa80451fa7efbb2ec564a524~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_6a4c11a1aa80451fa7efbb2ec564a524~mv2.jpg",
+        "title": "Aluminum",
+        "price": 10.00
+    },
+    {
+        "image": "https://static.wixstatic.com/media/c837a6_4824cb74e00f4246aa7604ab960ac14f~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_4824cb74e00f4246aa7604ab960ac14f~mv2.jpg ",
+        "title": "Steel",
+        "price": 30.00
+    },    {
+        "image": "https://static.wixstatic.com/media/c837a6_8b8453c494c74c2d95502a8abd5a99a3~mv2.jpg/v1/fill/w_530,h_706,al_c,q_85,enc_auto/c837a6_8b8453c494c74c2d95502a8abd5a99a3~mv2.jpg",
+        "title": "Custom",
+        "price": 70.00
+    }
+]
